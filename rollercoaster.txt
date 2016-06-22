@@ -1,0 +1,6 @@
+Ride Name	Amusement Park	Country	Score
+Thrill Rocket	Fun City	Tanzania	10
+Flight Of The Bullocks	Six Flags	USA	0
+The Fractured But Whole	Arbitrary Fun Land	UK	3
+Rollercoaster	Fun Park Land	Greenland	9
+Amusement Park Thrill Contraption	Fun Park Land	Greenland	=3
