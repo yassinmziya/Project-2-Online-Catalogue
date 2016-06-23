@@ -10,7 +10,13 @@
 		</style>
 	</head>
 	<body>
-		<div id = "nav"></div>
+		<div id = "nav">
+			<ul>
+				<a href = "index.php"><li>Home</li></a>
+				<a href = "add.php"><li> Add</li></a>
+				<a href = "search.php"><li>Search</li></a>
+			</ul>
+		</div>
 		<div id = "content">
 				<table>
 				<?php

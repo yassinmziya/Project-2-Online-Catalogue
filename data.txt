@@ -3,3 +3,5 @@ Half Life 3	2020	0.00	PC	http://orig15.deviantart.net/6f74/f/2015/149/d/2/half_l
 Uncharted 4: A Thief's End	2016	59.99	PS4	http://static1.gamespot.com/uploads/scale_super/43/434805/2876987-uncharted4amazon.jpg
 Forza Motorsport 5	2013	19.99	XBONE	http://img.gamefaqs.net/box/9/7/8/281978_front.jpg
 Horizon Zero Dawn	2017	59.99	PS4	http://www.gamepur.com/files/images/2015/horizon_zero_dawn-fan-made-box-art-1.jpg
+Battlefield 1	2016	59.99	MULTIPLATFORM	http://blogs-images.forbes.com/erikkain/files/2016/05/TGxone2DPFT_no_ratings.jpg
+Civilization VI	2017	59.99	PC	https://upload.wikimedia.org/wikipedia/en/3/3b/Civilization_VI_cover_art.jpg
